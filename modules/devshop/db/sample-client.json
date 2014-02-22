@@ -1,0 +1,47 @@
+/* 0 */
+{
+  "_id" : ObjectId("53088d21845e4335ccc44c7b"),
+  "client_number" : "123",
+  "name" : "ABC Corporation",
+  "url" : "www.abc.com",
+  "twitter" : "",
+  "facebook" : "",
+  "email" : "",
+  "address1" : "123 My Street",
+  "address2" : "",
+  "city" : "Chicago",
+  "state" : "Illinois",
+  "postal" : "60606",
+  "country" : "US",
+  "locale" : "en_US",
+  "phone" : "555-1212",
+  "fax" : "555-1212",
+  "sic_code" : "311212",
+  "sic_description" : "Milling rice",
+  "status" : "",
+  "credit_limit" : ""
+}
+
+/* 1 */
+{
+  "_id" : ObjectId("53088da2845e4335ccc44c7c"),
+  "client_number" : "456",
+  "name" : "CSR Development, Co.",
+  "url" : "www.csrdevco.com",
+  "twitter" : "",
+  "facebook" : "",
+  "email" : "",
+  "address1" : "715 Belmont Drive",
+  "address2" : "",
+  "city" : "Romeoville",
+  "state" : "Illinois",
+  "postal" : "60440",
+  "country" : "US",
+  "locale" : "en_US",
+  "phone" : "815-293-7416",
+  "fax" : "",
+  "sic_code" : "",
+  "sic_description" : "",
+  "status" : "",
+  "credit_limit" : ""
+}
